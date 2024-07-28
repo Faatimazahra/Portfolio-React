@@ -23,7 +23,7 @@
   font-size: 3rem;
 }
 .i-name > :nth-child(2) {
-  color: var(--orange);
+  color: blue;
   font-weight: bold;
   font-size: 3rem;
 }
@@ -85,7 +85,7 @@
   width: 22rem;
   height: 14rem;
   border-radius: 50%;
-  background: #edd0ff;
+  background: #d0fbff;
   filter: blur(212px);
   z-index: -9;
   top: -18%;

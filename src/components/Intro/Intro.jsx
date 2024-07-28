@@ -27,11 +27,13 @@ const Intro = () => {
       <div className="i-left">
         <div className="i-name">
           {/* yahan change hy darkmode ka */}
-          <span style={{ color: darkMode ? "white" : "" }}>Hy! I Am</span>
-          <span>Andrew Thomas</span>
+          <span style={{ color: darkMode ? "white" : "" }}>Hy! Fatima Zahra</span>
+          <span>Web&Mobile Developer</span>
           <span>
-            Frontend Developer with high level of experience in web designing
-            and development, producting the Quality work
+          Passionate web and mobile developer with a license in Web and Mobile Development. I have a 
+          strong foundation in PHP, MySQL, JavaScript, HTML, CSS 
+          and React.js. My practical experience includes developing dynamic and user-friendly websites, 
+          and I am always eager to learn and embrace new challenges in the tech world.
           </span>
         </div>
         <Link to="contact" smooth={true} spy={true}>
